@@ -5,7 +5,6 @@ public class IntsCalculator implements Ints {
 
     public IntsCalculator() {
         this.calc = new Calculator();
-        ;
     }
 
     @Override
